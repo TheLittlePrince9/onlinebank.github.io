@@ -1,0 +1,1 @@
+index>>signupView.php>>saveData.php(through form)>[dbconfig.php(to connect server with DB)]>>index.php(redirecting back)
